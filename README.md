@@ -1,17 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Kennedy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FiveM%20Developer&descSize=22&descAlignY=60" alt="Kennedy - FiveM Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kennedy&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FiveM%20Developer&descSize=22&descAlignY=60" alt="Kennedy - FiveM Developer" />
 
-**Scripts, sistemas e interfaces NUI sob medida para servidores FiveM**
+<a href="https://github.com/kennedy-hkdv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Scripts+e+sistemas+sob+medida+para+FiveM;Interfaces+NUI+com+HTML%2C+CSS+e+JavaScript;Lua+%C2%B7+JavaScript+%C2%B7+MySQL;Ebooks+gratuitos+para+quem+est%C3%A1+come%C3%A7ando" alt="Frases animadas" />
+</a>
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br/>
+
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 📍 Guarapuava, PR — Brasil
+
+<a href="https://github.com/kennedy-hkdv?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios" /></a>
+<a href="https://github.com/kennedy-hkdv/fivem-recursos-uteis"><img src="https://img.shields.io/badge/Recursos%20%C3%BAteis-2C5364?style=flat-square&logo=bookstack&logoColor=white" alt="Recursos úteis" /></a>
+<img src="https://komarev.com/ghpvc/?username=kennedy-hkdv&label=Visitas&color=2c5364&style=flat-square" alt="Visitas" />
 
 </div>
 
@@ -21,22 +27,41 @@
 
 Sou desenvolvedor **FiveM** e crio scripts personalizados, sistemas completos e interfaces (NUI) que dão identidade própria a cada servidor.
 
-Trabalho com foco em **código organizado, performance e experiência do jogador**, entregando recursos fáceis de configurar e de manter.
+Trabalho com foco em **código organizado, performance e experiência do jogador**, entregando recursos fáceis de configurar e de manter. Também compartilho o que aprendo em **ebooks gratuitos**, para ajudar quem está começando.
 
 ## 🚀 O que eu faço
 
-| | |
-| --- | --- |
-| ⚙️ **Sistemas** | Mecânicas e sistemas customizados para servidores de roleplay |
-| 🖥️ **Interfaces NUI** | Menus, HUDs e painéis em HTML, CSS e JavaScript |
-| 🗄️ **Banco de dados** | Modelagem e consultas em MySQL |
-| 🔧 **Otimização** | Recursos leves, com atenção ao consumo (resmon) |
+| | | |
+| --- | --- | --- |
+| ⚙️ **Sistemas** | 🖥️ **Interfaces NUI** | 🗄️ **Banco de dados** |
+| Mecânicas customizadas para servidores de roleplay | Menus, HUDs e painéis em HTML, CSS e JavaScript | Modelagem e consultas em MySQL |
+
+| 🔧 **Otimização** | 🔒 **Segurança** | 📦 **Entrega** |
+| --- | --- | --- |
+| Recursos leves, medidos no resmon | Validação sempre no server | Configuração simples e documentação clara |
+
+## 📚 Ebooks gratuitos
+
+Uma trilha completa para aprender a desenvolver para FiveM, do zero ao primeiro sistema com interface e banco de dados.
+
+<div align="center">
+
+<a href="https://github.com/kennedy-hkdv/ebook-lua-do-zero"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kennedy-hkdv&repo=ebook-lua-do-zero&theme=tokyonight&hide_border=true" alt="Lua do Zero" /></a>
+<a href="https://github.com/kennedy-hkdv/ebook-fivem-primeiros-passos"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kennedy-hkdv&repo=ebook-fivem-primeiros-passos&theme=tokyonight&hide_border=true" alt="FiveM Primeiros Passos" /></a>
+<a href="https://github.com/kennedy-hkdv/ebook-fivem-nui-e-mysql"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kennedy-hkdv&repo=ebook-fivem-nui-e-mysql&theme=tokyonight&hide_border=true" alt="FiveM NUI e MySQL" /></a>
+<a href="https://github.com/kennedy-hkdv/fivem-recursos-uteis"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kennedy-hkdv&repo=fivem-recursos-uteis&theme=tokyonight&hide_border=true" alt="Recursos úteis" /></a>
+
+</div>
+
+**Ordem sugerida:** 📘 Lua do Zero → 🎮 Primeiros Passos → 🖥️ NUI e MySQL → 🔗 Recursos úteis
 
 ## 🛠️ Tecnologias
 
-**Linguagens** &nbsp; ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-**Plataforma e ferramentas** &nbsp; ![FiveM](https://img.shields.io/badge/-FiveM-F40552?style=flat-square&logo=fivem&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql,git,github,vscode&theme=dark" alt="Tecnologias" />
+
+</div>
 
 ## 📈 GitHub
 
@@ -52,6 +77,8 @@ Trabalho com foco em **código organizado, performance e experiência do jogador
 Aberto a projetos, parcerias e trocas de conhecimento sobre desenvolvimento para FiveM. Me chame por aqui no GitHub.
 
 <div align="center">
+
+⭐ Gostou dos ebooks? Deixe uma estrela nos repositórios!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="" />
 
