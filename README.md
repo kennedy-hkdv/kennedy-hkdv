@@ -46,10 +46,11 @@ Uma trilha completa para aprender a desenvolver para FiveM, do zero ao primeiro 
 
 <div align="center">
 
-<a href="https://github.com/kennedy-hkdv/ebook-lua-do-zero"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kennedy-hkdv&repo=ebook-lua-do-zero&theme=tokyonight&hide_border=true" alt="Lua do Zero" /></a>
-<a href="https://github.com/kennedy-hkdv/ebook-fivem-primeiros-passos"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kennedy-hkdv&repo=ebook-fivem-primeiros-passos&theme=tokyonight&hide_border=true" alt="FiveM Primeiros Passos" /></a>
-<a href="https://github.com/kennedy-hkdv/ebook-fivem-nui-e-mysql"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kennedy-hkdv&repo=ebook-fivem-nui-e-mysql&theme=tokyonight&hide_border=true" alt="FiveM NUI e MySQL" /></a>
-<a href="https://github.com/kennedy-hkdv/fivem-recursos-uteis"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kennedy-hkdv&repo=fivem-recursos-uteis&theme=tokyonight&hide_border=true" alt="Recursos úteis" /></a>
+| 📘 [**Lua do Zero**](https://github.com/kennedy-hkdv/ebook-lua-do-zero) | 🎮 [**FiveM: Primeiros Passos**](https://github.com/kennedy-hkdv/ebook-fivem-primeiros-passos) |
+| :---: | :---: |
+| Conceitos essenciais da linguagem Lua, do zero | Servidor, resources, eventos, segurança e performance |
+| 🖥️ [**FiveM: NUI e MySQL**](https://github.com/kennedy-hkdv/ebook-fivem-nui-e-mysql) | 🔗 [**Recursos úteis**](https://github.com/kennedy-hkdv/fivem-recursos-uteis) |
+| Interfaces em HTML/CSS/JS e banco de dados com oxmysql | Documentação, ferramentas e materiais de estudo |
 
 </div>
 
@@ -60,15 +61,6 @@ Uma trilha completa para aprender a desenvolver para FiveM, do zero ao primeiro 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql,git,github,vscode&theme=dark" alt="Tecnologias" />
-
-</div>
-
-## 📈 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kennedy-hkdv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy-hkdv&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
 
 </div>
 
