@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kennedy&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FiveM%20Developer&descSize=22&descAlignY=60" alt="Kennedy - FiveM Developer" />
 
 <a href="https://github.com/kennedy-hkdv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Scripts+e+sistemas+sob+medida+para+FiveM;Interfaces+NUI+com+HTML%2C+CSS+e+JavaScript;Lua+%C2%B7+JavaScript+%C2%B7+MySQL;Ebooks+gratuitos+para+quem+est%C3%A1+come%C3%A7ando" alt="Frases animadas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Scripts+e+sistemas+sob+medida+para+FiveM;Interfaces+NUI+com+HTML%2C+CSS+e+JavaScript;Lua+%C2%B7+JavaScript+%C2%B7+MySQL;Full+Stack+%C2%B7+Automa%C3%A7%C3%A3o+%C2%B7+Suporte+de+TI;Ebooks+gratuitos+para+quem+est%C3%A1+come%C3%A7ando" alt="Frases animadas" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 
 Sou desenvolvedor **FiveM** e crio scripts personalizados, sistemas completos e interfaces (NUI) que dão identidade própria a cada servidor.
 
-Trabalho com foco em **código organizado, performance e experiência do jogador**, entregando recursos fáceis de configurar e de manter. Também compartilho o que aprendo em **ebooks gratuitos**, para ajudar quem está começando.
+Trabalho com foco em **código organizado, performance e experiência do jogador**, entregando recursos fáceis de configurar e de manter. Além do FiveM, atuo com **automação e integração (low-code / no-code)**, **suporte de TI e infraestrutura** e **desenvolvimento full stack**. Também compartilho o que aprendo em **ebooks gratuitos**, para ajudar quem está começando.
 
 ## 🚀 O que eu faço
 
@@ -39,6 +39,19 @@ Trabalho com foco em **código organizado, performance e experiência do jogador
 | 🔧 **Otimização** | 🔒 **Segurança** | 📦 **Entrega** |
 | --- | --- | --- |
 | Recursos leves, medidos no resmon | Validação sempre no server | Configuração simples e documentação clara |
+
+## 🎯 Especializações
+
+| 🤖 **Automação e Integração** | 🛠️ **Suporte de TI e Infraestrutura** | 💻 **Desenvolvimento Full Stack** |
+| --- | --- | --- |
+| Low-Code / No-Code: fluxos automatizados e integração entre ferramentas e sistemas | Suporte a usuários, equipamentos, redes e manutenção da infraestrutura | Aplicações completas, do front-end ao back-end e banco de dados |
+
+## 🎓 Formação
+
+Me especializei com cursos e trilhas nas plataformas:
+
+![Rocketseat](https://img.shields.io/badge/Rocketseat-8257E5?style=for-the-badge&logoColor=white)
+![Alura](https://img.shields.io/badge/Alura-1B3A5C?style=for-the-badge&logoColor=white)
 
 ## 📚 Ebooks gratuitos
 
